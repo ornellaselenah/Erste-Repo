@@ -1,2 +1,2 @@
-print("My World");
+print("Hello World");
 print("2024");
